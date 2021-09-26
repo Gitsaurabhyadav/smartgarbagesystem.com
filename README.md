@@ -1,1 +1,1 @@
-# smartgarbagesystem.com
+# smartgarbagesystem.github.io
